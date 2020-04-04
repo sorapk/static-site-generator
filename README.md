@@ -14,4 +14,4 @@ Template project for static site generator with React, Gatsby, GraphQL.
 - npm install gatsby-cli
 - gatsby new <project name>
 - gatsby develop
-- gatsby build
+- npm run build

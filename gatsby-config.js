@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/static-site-generator",
   siteMetadata: {
     title: `Random Blog Site`,
     description: `Tired of sleeping? Wake up and do something!`,
