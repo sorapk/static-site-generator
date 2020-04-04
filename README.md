@@ -15,3 +15,7 @@ Template project for static site generator with React, Gatsby, GraphQL.
 - gatsby new <project name>
 - gatsby develop
 - npm run build
+
+## Issues
+
+- remove .cache and public if there is problem with 'gatsby develop'
