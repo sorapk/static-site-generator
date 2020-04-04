@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/post-one","result":{"data":{"markdownRemark":{"html":"<p>This is my <strong><em>first</em></strong> blog post.</p>","frontmatter":{"path":"/post-one","title":"My First Gatsby Post","author":"Marie Doe","date":"2020-04-03"}}},"pageContext":{}}}

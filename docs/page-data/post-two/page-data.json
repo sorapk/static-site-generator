@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/post-two","result":{"data":{"markdownRemark":{"html":"<p>This is my <strong>second</strong> blog post.</p>","frontmatter":{"path":"/post-two","title":"My Second Gatsby Post","author":"John Doe","date":"2020-04-04"}}},"pageContext":{}}}
