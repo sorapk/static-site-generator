@@ -4,6 +4,7 @@ Template project for static site generator with React, Gatsby, GraphQL.
 
 ## Key Technologies
 
+- React
 - Gatsby
 - Graph QL
 - Markdown
